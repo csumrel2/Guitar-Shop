@@ -19,8 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `my_guitar_shop1`
 --
-CREATE DATABASE IF NOT EXISTS `my_guitar_shop` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `my_guitar_shop`;
+CREATE DATABASE IF NOT EXISTS `my_guitar_shop1` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `my_guitar_shop1`;
 
 -- --------------------------------------------------------
 
